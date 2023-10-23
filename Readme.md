@@ -40,7 +40,7 @@ services:
       - ./mysql:/var/lib/mysql  # Monta una carpeta local en el contenedor de MySQL para persistencia de datos.
 
 ```
-Añadi comoentario en cada lonea que creo que nos explican de forma completa la utilidad que tienen.
+Añadi comentarios en cada linea el cual que nos explica de forma completa la utilidad que tienen.
 
 **3. Iniciar los contenedores**
 
